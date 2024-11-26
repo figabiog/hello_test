@@ -1,0 +1,11 @@
+# awk_script
+
+BEGIN {
+}
+
+{
+  # main
+}
+
+END {
+}
